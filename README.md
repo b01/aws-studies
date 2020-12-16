@@ -10,6 +10,6 @@ may expand to a folder with sub-files when the content gets to be longer than
 1 page is considered to be 100 lines of text. Lines are no longer than 80 
 characters. Line breaks occur at spaces, and not in the middle of words, for
 example, a line will break at the space before the word instead of breaking at
-the syllabol:
+the syllables:
 
 ![illustration example of the preferred style of line break](/assets/example-line-break.png)
